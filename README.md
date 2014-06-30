@@ -11,7 +11,11 @@ enable the use of barcode decoding functionality to QML projects based on the Ub
 
 [Daily packages][] of this plugin are also available for Ubuntu.
 
+Useful documentation on [Nokia Developer][].
+
+
 [original QtQuick 1.0 port]: https://projects.developer.nokia.com/QZXing
 [Nikolaos Ftylitakis]: http://www.developer.nokia.com/Profile/?u=favoritas37
 [ZXing]: http://code.google.com/p/zxing/
 [Daily packages]: https://launchpad.net/~qreator-hackers/+archive/qreator-experimental
+[Nokia Developer]: http://developer.nokia.com/community/wiki/Qr_Decoder_in_Qt#talkhere
